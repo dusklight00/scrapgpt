@@ -13,4 +13,9 @@ chatgpt = ChatGPTWrapper()
 response = chatgpt.ask("How are you?")
 
 print(response)
+
+# As an AI language model, I don't have
+# feelings or emotions, but I'm here to
+# help you with any questions or information
+# you need. How can I assist you today?
 ```
