@@ -9,7 +9,11 @@ To get started, use the following simple 3 line code.
 ```python
 from chatgpt_wrapper import ChatGPTWrapper
 
-chatgpt = ChatGPTWrapper()
+# Open AI Login Credentials
+EMAIL = "..."
+PASSWORD = "..."
+
+chatgpt = ChatGPTWrapper(EMAIL, PASSWORD)
 response = chatgpt.ask("How are you?")
 
 print(response)
