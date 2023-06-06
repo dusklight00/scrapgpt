@@ -1,0 +1,1 @@
+from .scrapgpt import ScrapGPT

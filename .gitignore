@@ -2,3 +2,6 @@
 index.ipynb
 __pycache__ 
 .env
+test.py
+dist
+*.egg-info

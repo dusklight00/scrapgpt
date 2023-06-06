@@ -1,7 +1,7 @@
 from webscapy import Webscapy
 import time
 
-class ChatGPTWrapper:
+class ScrapGPT:
     def __init__(self, email, password):
         # Login interface xpaths
         self.login_btn_xpath = '/html/body/div[1]/div[1]/div[1]/div[4]/button[1]'
